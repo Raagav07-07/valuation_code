@@ -1,0 +1,12 @@
+.formdiv{
+    padding-left: 70px;
+    padding-top:35px;
+}
+input,select{
+    margin-bottom:20px;
+}
+.vald{
+    padding-left: 560px;
+    padding-top: 30px;
+    border-style: solid;
+}
